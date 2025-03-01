@@ -3,6 +3,11 @@ import fs from "fs";
 import path from "path"
 
 
+
+
+
+
+
 export const getAll=(folderPath:string)=>{
     let response: string[]=[];
 
