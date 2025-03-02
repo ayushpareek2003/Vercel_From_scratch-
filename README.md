@@ -1,6 +1,4 @@
-# Project Name
-
-A project built from scratch and deployed on Vercel.
+# Vercel from scratch
 
 ## Installation and Setup
 
