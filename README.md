@@ -8,8 +8,8 @@
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/ayushpareek2003/Vercel_From_scratch-.git
+cd Vercel_From_scratch-
 ```
 
 ### Install Dependencies
